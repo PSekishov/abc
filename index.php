@@ -14,6 +14,6 @@
     4 Ну вот пока и всё !!!
     ---------->
 
-    <script src="assets/myscript.js"></script>
+    
 </body>
 </html> 
